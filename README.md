@@ -1,2 +1,2 @@
 # Scope-Creep-Detector
-This application helps the Project Stakeholders detect scope creep instances from project emails using GPT + RAG 
+This application leverages GPT and Retrieval-Augmented Generation (RAG) technology to identify potential scope creep within project email correspondence, supporting project stakeholders.
