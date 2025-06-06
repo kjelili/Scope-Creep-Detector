@@ -1,4 +1,4 @@
-# Scope Creep RAG Detector (SMS Only)
+# Scope Creep Detector with RAG Implementation + SMS Alert
 
 ## Features
 - Upload PDF/DOCX scope documents
